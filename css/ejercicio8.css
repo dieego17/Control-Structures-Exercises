@@ -1,0 +1,29 @@
+.contenedor{
+    margin: 0 auto;
+    width: 1080px;
+}
+.main{
+    text-align: center;
+}
+.nav{
+    margin: 40px 0px;
+}
+.main__h2{
+    margin: 40px 0px;
+    text-align: left;
+}
+.section{
+    text-align: left;
+}
+
+.table{
+    border: 1px solid black;
+    margin: 30px 0px;
+}
+.tr .td{
+    border: 1px solid black;
+}
+.link__4{
+    text-decoration: none;
+    color: black;
+}

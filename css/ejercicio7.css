@@ -1,0 +1,22 @@
+.contenedor{
+    margin: 0 auto;
+    width: 1080px;
+}
+.main{
+    text-align: center;
+}
+.nav{
+    margin: 40px 0px;
+}
+.main__h2{
+    margin: 40px 0px;
+    text-align: left;
+}
+.section{
+    text-align: left;
+}
+.section__h3{
+    text-align: center;
+}
+
+
